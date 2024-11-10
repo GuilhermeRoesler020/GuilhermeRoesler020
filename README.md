@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-hubner-roesler-960267287/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeRoesler)
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRoesler&show_icons=true&theme=ambient_gradient)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRoesler&show_icons=true&theme=calm_pink)
 
 ## Tecnologias
 
